@@ -1,0 +1,19 @@
+Lastenheft
+
+Eckdaten:
+
+  - Speicherung von gelagerten Artikeln
+  - Zuweisung einfeutiger IDs zu Artiklen
+    + systematische Aufteilung der IDs
+      --> Zuordnung gewisser ID-Domänen zu Produktkategorien
+  - Speicherung zusätzlich relevanter Daten
+  - einfache Eingabe neuer Produkte
+    + Sttrichcode Scanner o.ä.
+  - einfache Eingabe von verbrauchten Gütern
+  - Erstellung von Verbrauchsstatistiken
+    + Vorhersagen zu bedarfen
+  - automatische Erstellung von Einkaufslisten
+  - manuelle Erstellung und Bearbeitung von Einkaufslisten
+  - Zugriff auch von unterwegs
+  - bearbeitung am Desktop
+    --> Webapplikation?
